@@ -1,0 +1,22 @@
+vsearch v2.0.3_linux_x86_64, 252.2GB RAM, 16 cores
+/home/pratesi/miniconda2/envs/py27/lib/python2.7/site-packages/bin/vsearch-linux-x86_64 -cluster_smallmem /data3/pratesi/ipyrad_Anolis/Anolis34_R12_f2_l35_c90_across/Anolis34_R12_f2_l35_c90_catshuf.tmp -strand plus -query_cov 0.75 -minsl 0.5 -id 0.9 -userout /data3/pratesi/ipyrad_Anolis/Anolis34_R12_f2_l35_c90_across/Anolis34_R12_f2_l35_c90.utemp -notmatched /data3/pratesi/ipyrad_Anolis/Anolis34_R12_f2_l35_c90_across/Anolis34_R12_f2_l35_c90.htemp -userfields query+target+qstrand -maxaccepts 1 -maxrejects 0 -fasta_width 0 -threads 10 -fulldp -usersort -log /data3/pratesi/ipyrad_Anolis/Anolis34_R12_f2_l35_c90_across/s6_cluster_stats.txt 
+Started  Tue Apr 30 10:38:17 20191268513140 nt in 13538677 seqs, min 33, max 342, avg 94
+
+
+      Alphabet  nt
+    Word width  8
+     Word ones  8
+        Spaced  No
+        Hashed  No
+         Coded  No
+       Stepped  No
+         Slots  65536 (65.5k)
+       DBAccel  100%
+
+Clusters: 2655378 Size min 1, max 676, avg 5.1
+Singletons: 1797676, 13.3% of seqs, 67.7% of clusters
+
+
+Finished Wed May  1 05:32:15 2019
+Elapsed time 1133:58
+Max memory 11.2GB

@@ -1,0 +1,200 @@
+raw_file                               total_reads    cut_found  bar_matched
+Anolis-3_S1_L002_R1_001.fastq            317559558    317557118    295189524
+Anolis-3_S1_L002_R2_001.fastq            317559558    317557118    295189524
+
+sample_name                            total_reads
+BLANK1                                       11507
+BM260                                      3502837
+BM527                                      2908824
+CAS178101                                  3063095
+CORBIDI5457                                2546955
+H0805                                      1746874
+H1888                                      2762386
+H3705                                      1927444
+H4108                                      2584553
+H4113                                      3153086
+HJ0174                                     2480517
+JFT726                                     3060904
+LSUMZH12538b                               1560414
+LSUMZH12545a                               2883598
+LSUMZH14094                                3296516
+LSUMZH14327a                               2712373
+LSUMZH15471                                3053853
+MTR04529                                   3306364
+MTR06037                                   3372937
+MTR06262                                   3315782
+MTR12159                                   2785251
+MTR12860                                   3004004
+MTR13253                                   2889695
+MTR18729                                   3631176
+MTR18816                                   2653886
+MTR18923                                   3270839
+MTR19062                                   3419674
+MTR19188                                   3292480
+MTR20541                                   3310002
+MTR20711                                   3492065
+MTR20738                                   3128049
+MTR21992                                   3055740
+MTR23059                                   2953126
+MTR23120                                   3036048
+MTR23156                                   3072828
+MTR24137                                   2651088
+MTR25524                                   3054459
+MTR25538                                   3253659
+MTR25984                                   3649324
+MTR26007                                   2985499
+MTR28194                                   3407392
+MTR28206                                   2928452
+MTR28265                                   2674045
+MTR28393                                   3720031
+MTR28414                                   2955369
+MTR28535                                   4966158
+MTR28563                                   3207561
+MTR28565                                   2929381
+MTR28577                                   2988277
+MTR28579                                   2965799
+MTR33060                                   2895018
+MTR33063                                   3323978
+MTR34156                                   2863420
+MTR34394                                   3518605
+MTR34472                                   2565763
+MTR34595                                   2871396
+MTR35696                                   3860620
+MTR35698                                   3315464
+MTR35708                                   2776903
+MTR35861                                   3210869
+MTR35916                                   3175085
+MTR35968                                   3210979
+MTR36086                                   3446853
+MTR36275                                   3256472
+MTR36540                                   3427487
+MTR36732                                   3143320
+MTR36819                                   3217091
+MTR36879                                   2985239
+MTR36940                                   3375703
+MTR36942                                   2994790
+MTR37027                                   3183978
+MTR39952                                   2302101
+MTR40119                                   3322417
+MTR40374                                   3039224
+MTR40847                                   3252150
+MTR40906                                   2946561
+MTR41369                                   2973520
+MTR41440                                   5169831
+MTR967911                                  4211461
+PEU488                                     3344886
+PRMS498                                    3117763
+PRMS501                                    3069622
+PRMS528                                    2930794
+PRMS538                                    2954785
+PRMS587                                    2884079
+PRMS589                                    2721697
+PRMS700                                    2999939
+PRMS751                                    3144314
+PRMS767                                    3055428
+PRMS769                                    2713581
+PRMS796                                    2571730
+PRMS845                                    2967678
+PRMS859                                    2872094
+RF23                                       3328400
+SMS473                                     4762964
+SMS941                                     3331296
+
+sample_name                               true_bar       obs_bar     N_records
+BLANK1                                   CATCACAAG     CATCACAAG         11507
+BM260                                        TCCAG         TCCAG       3502837
+BM527                                     AACTGAAG      AACTGAAG       2908824
+CAS178101                                   GATTCA        GATTCA       3063095
+CORBIDI5457                             CAAGCCAATT    CAAGCCAATT       2546955
+H0805                                      CAATCAT       CAATCAT       1746874
+H1888                                    ACATCACCG     ACATCACCG       2762386
+H3705                                      TTGCGCT       TTGCGCT       1927444
+H4108                                   CGCAGACACT    CGCAGACACT       2584553
+H4113                                       TGTGGA        TGTGGA       3153086
+HJ0174                                      TGGATA        TGGATA       2480517
+JFT726                                     ATAGCGT       ATAGCGT       3060904
+LSUMZH12538b                               CCATAGA       CCATAGA       1560414
+LSUMZH12545a                             GGCACGCAT     GGCACGCAT       2883598
+LSUMZH14094                                  GTGTT         GTGTT       3296516
+LSUMZH14327a                            ATTAACAATT    ATTAACAATT       2712373
+LSUMZH15471                                  CAATA         CAATA       3053853
+MTR04529                                  TAGTCCAT      TAGTCCAT       3306364
+MTR06037                                  CGTGACCT      CGTGACCT       3372937
+MTR06262                                   CTTCAGA       CTTCAGA       3315782
+MTR12159                                ATCTGCAACA    ATCTGCAACA       2785251
+MTR12860                                     AAGGA         AAGGA       3004004
+MTR13253                                     TTACT         TTACT       2889695
+MTR18729                                    CCTTCG        CCTTCG       3631176
+MTR18816                                  TTATCCAT      TTATCCAT       2653886
+MTR18923                                    GGATTG        GGATTG       3270839
+MTR19062                                   GACGTGA       GACGTGA       3419674
+MTR19188                                   GACGGCA       GACGGCA       3292480
+MTR20541                                    CGTCTG        CGTCTG       3310002
+MTR20711                                     TCTGA         TCTGA       3492065
+MTR20738                                    ATCTTA        ATCTTA       3128049
+MTR21992                                 TGTATACAG     TGTATACAG       3055740
+MTR23059                                     AACTT         AACTT       2953126
+MTR23120                                GAGTCACAAT    GAGTCACAAT       3036048
+MTR23156                                 CGGTTGCAT     CGGTTGCAT       3072828
+MTR24137                                TGTGACAAGA    TGTGACAAGA       2651088
+MTR25524                                 GTCCTGCCA     GTCCTGCCA       3054459
+MTR25538                                    GTTACA        GTTACA       3253659
+MTR25984                                     GCGGA         GCGGA       3649324
+MTR26007                                  ATGATACG      ATGATACG       2985499
+MTR28194                                    CTGTTG        CTGTTG       3407392
+MTR28206                                  TCAGTAAT      TCAGTAAT       2928452
+MTR28265                                     TCACA         TCACA       2674045
+MTR28393                                     GTCGT         GTCGT       3720031
+MTR28414                                   ACGCTAA       ACGCTAA       2955369
+MTR28535                                     ATAGG         ATAGG       4966158
+MTR28563                                   CCTGCCA       CCTGCCA       3207561
+MTR28565                                 GGTATGAAT     GGTATGAAT       2929381
+MTR28577                                   TAAGACA       TAAGACA       2988277
+MTR28579                                     TGAGA         TGAGA       2965799
+MTR33060                                   AATGCAG       AATGCAG       2895018
+MTR33063                                    CCGTGA        CCGTGA       3323978
+MTR34156                                GCCAGACATT    GCCAGACATT       2863420
+MTR34394                                     GTGCG         GTGCG       3518605
+MTR34472                                   TTACACA       TTACACA       2565763
+MTR34595                                CCGTCACAGT    CCGTCACAGT       2871396
+MTR35696                                    CTGTGT        CTGTGT       3860620
+MTR35698                                   CGCGCCG       CGCGCCG       3315464
+MTR35708                                    CTAACA        CTAACA       2776903
+MTR35861                                    GGCCTG        GGCCTG       3210869
+MTR35916                                    TGACGT        TGACGT       3175085
+MTR35968                                    ACTGAG        ACTGAG       3210979
+MTR36086                                   GCGCACT       GCGCACT       3446853
+MTR36275                                  GGTAAGCA      GGTAAGCA       3256472
+MTR36540                                 AATCGGAGG     AATCGGAGG       3427487
+MTR36732                                  TGGAGCCT      TGGAGCCT       3143320
+MTR36819                                 GATGGCCAT     GATGGCCAT       3217091
+MTR36879                                     TGCAA         TGCAA       2985239
+MTR36940                                     AACGG         AACGG       3375703
+MTR36942                                    GAGACG        GAGACG       2994790
+MTR37027                                   CTTATCA       CTTATCA       3183978
+MTR39952                                CCGTACCACT    CCGTACCACT       2302101
+MTR40119                                    GTAACG        GTAACG       3322417
+MTR40374                                 TCCTCACAT     TCCTCACAT       3039224
+MTR40847                                     TCGTA         TCGTA       3252150
+MTR40906                                 GTATTGACT     GTATTGACT       2946561
+MTR41369                                   GCGCGAG       GCGCGAG       2973520
+MTR41440                                     GCTCA         GCTCA       5169831
+MTR967911                                   ACGATA        ACGATA       4211461
+PEU488                                      CAGTAA        CAGTAA       3344886
+PRMS498                                  GGAGAGCAT     GGAGAGCAT       3117763
+PRMS501                                      CCATG         CCATG       3069622
+PRMS528                                 CGCTCACACA    CGCTCACACA       2930794
+PRMS538                                    TGTTACG       TGTTACG       2954785
+PRMS587                                 GATTGGAAGA    GATTGGAAGA       2884079
+PRMS589                                  AATAAGAGT     AATAAGAGT       2721697
+PRMS700                                     GAGCAA        GAGCAA       2999939
+PRMS751                                  CTTCCGCAA     CTTCCGCAA       3144314
+PRMS767                                     TACAAG        TACAAG       3055428
+PRMS769                                 TTCAGCCAGT    TTCAGCCAGT       2713581
+PRMS796                                 TGAAGCAACT    TGAAGCAACT       2571730
+PRMS845                                  ACAACGCAT     ACAACGCAT       2967678
+PRMS859                                  GGCGGACGA     GGCGGACGA       2872094
+RF23                                     ATCGTACGT     ATCGTACGT       3328400
+SMS473                                      AATGTA        AATGTA       4762964
+SMS941                                   GTACGGACG     GTACGGACG       3331296
+no_match                                         _            _     22370034
